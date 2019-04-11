@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/cellbowl.dir/main.c.o CMakeFiles/cellbowl.dir/cell.c.o CMakeFiles/cellbowl.dir/draw.c.o CMakeFiles/cellbowl.dir/graph.c.o  -o cellbowl /usr/lib/libSDL2.so -lpthread /usr/lib/libSDL2main.a -lSDL2_ttf -lm 

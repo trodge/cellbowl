@@ -1,0 +1,3 @@
+/home/pluto/Code/cellbowl/CMakeFiles/rebuild_cache.dir
+/home/pluto/Code/cellbowl/CMakeFiles/cellbowl.dir
+/home/pluto/Code/cellbowl/CMakeFiles/edit_cache.dir
